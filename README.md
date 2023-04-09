@@ -45,6 +45,25 @@ Create a set of four questions that you anticipate each business leader will ask
 
 Eight (8) questions in total (4 for the CEO and 4 for the CMO)
 
+# CMO 
+ 1. Which region is generating the highest revenue, and which region is generating the lowest?
+ Answers : This question is important to the CEO as it is based on the fundamental source of income for the business, i.e.,
+           revenue. Revenue analysis is important to the CEO as top-level executives are always focused on earnings and
+           how to increase it. Here, the CEO is interested in the viewing revenue by the regions, to assess which regions
+           are generating the highest revenue and which regions are generating lower revenue. Using the data and
+           analysis, the CEO will be able to decide on how to further generate revenue in the regions that are already
+           generating the most revenue. For the regions that are not generating enough revenue, the CEO will then study
+           the reasons why there is a lack of sales in those regions and try to improve the products and make them more
+           suitable for those regions. 
+           
+ 2. What is the monthly trend of revenue, which months have faced the biggest increase/decrease?
+Answers:  A monthly trend of revenue will provide the CEO with insights on how the revenue is fluctuating each month.
+          This will enable the CEO to analyze how the internal changes inside the company have had impact on the sales.
+          E.g., how a new product launch has led to an increase in revenue during the month or how the introduction of a
+          new region has led to an increase in revenue for the online store. The CEO can also analyze if there have been
+          any delays internally that would have caused a potential decrease. Such analysis is vital for the senior
+          management as it would enable them to plan ahead and try to make the customer experience as smooth as possible.           
+
 ## **Task 2 - Choosing the Right Visuals**
 Learn which visuals are most effective in a given scenario
 
