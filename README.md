@@ -45,7 +45,7 @@ Create a set of four questions that you anticipate each business leader will ask
 
 Eight (8) questions in total (4 for the CEO and 4 for the CMO)
 
-## **CEO 
+## CEO 
  1. Which region is generating the highest revenue, and which region is generating the lowest?
  Answers : This question is important to the CEO as it is based on the fundamental source of income for the business, i.e.,
            revenue. Revenue analysis is important to the CEO as top-level executives are always focused on earnings and
@@ -79,7 +79,7 @@ targeted with more products that they can buy. This will ensure higher revenue f
 are the top buyers from the store. 
 
 
-## **CMO
+## CMO
 1. What is the percentage of customers who are repeating their orders? Are they ordering the same
 products or different?
 This question shows that the CMO is interested in viewing the trends in customer orders. He is interested to
